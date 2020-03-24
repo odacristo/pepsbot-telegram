@@ -1,6 +1,6 @@
-# Reddbot - Telegram Reddcoin Tipbot v3
+# Pepsbot - Telegram Reddcoin Tipbot v3
 
-#### Reddcoin crypto currency tipbot for [Telegram](https://telegram.org)
+#### Pepscoin crypto currency tipbot for [Telegram](https://telegram.org)
 
 
 ## Dependencies 
